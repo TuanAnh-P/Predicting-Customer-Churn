@@ -6,6 +6,15 @@ A machine learning project focused on predicting customer churn for StreamFlex s
 
 This project analyzes customer behavior data to identify patterns that indicate potential churn. The analysis incorporates customer demographics, usage patterns, subscription details, and support interactions to build predictive models that can help businesses proactively address customer retention.
 
+## Contributors
+
+This project was developed by:
+
+- **Antoine Cantin** (40211205) - [@ChiefsBestPal](https://github.com/ChiefsBestPal)
+- **Tuan Anh Pham** (40213926) - [@TuanAnh-P](https://github.com/TuanAnh-P)
+- **Ryan Li** (40214839) - [@Ryan2Li](https://github.com/Ryan2Li)
+- **Mustafa Sameem** (40190889) - [@MustafaSameem](https://github.com/MustafaSameem)
+
 ## Dataset
 
 The dataset contains 1,000 customer records with the following features:
