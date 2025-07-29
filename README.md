@@ -8,12 +8,12 @@ This project analyzes customer behavior data to identify patterns that indicate 
 
 ## Contributors
 
-This project was developed by:
-
-- **Antoine Cantin** (40211205) - [@ChiefsBestPal](https://github.com/ChiefsBestPal)
-- **Tuan Anh Pham** (40213926) - [@TuanAnh-P](https://github.com/TuanAnh-P)
-- **Ryan Li** (40214839) - [@Ryan2Li](https://github.com/Ryan2Li)
-- **Mustafa Sameem** (40190889) - [@MustafaSameem](https://github.com/MustafaSameem)
+| Name           | Student ID | GitHub                                             |
+| -------------- | ---------- | -------------------------------------------------- |
+| Antoine Cantin | 40211205   | [@ChiefsBestPal](https://github.com/ChiefsBestPal) |
+| Tuan Anh Pham  | 40213926   | [@TuanAnh-P](https://github.com/TuanAnh-P)         |
+| Ryan Li        | 40214839   | [@Ryan2Li](https://github.com/Ryan2Li)             |
+| Mustafa Sameem | 40190889   | [@MustafaSameem](https://github.com/MustafaSameem) |
 
 ## Dataset
 
